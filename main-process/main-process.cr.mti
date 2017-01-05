@@ -1,0 +1,29 @@
+{C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/main-process.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/main-process.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Main_process
+-- Compiling architecture state_machine of Main_process
+
+} {} {}} {C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/ram_keys.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/ram_keys.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ram
+-- Compiling architecture rtl of ram
+
+} {} {}} {C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/pre-process.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/pre-process.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.2c Compiler 2013.07 Jul 18 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Pre_process
+-- Compiling architecture state_machine of Pre_process
+
+} {} {}}

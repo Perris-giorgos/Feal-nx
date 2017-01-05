@@ -1,0 +1,47 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:/Modeltech_pe_edu_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+Epre_process
+Z0 w1393954493
+Z1 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z3 dC:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/New folder
+Z4 8C:\Users\nickt_000\Desktop\Nikos\ece\vlsi3\New folder\pre-process.vhd
+Z5 FC:\Users\nickt_000\Desktop\Nikos\ece\vlsi3\New folder\pre-process.vhd
+l0
+L13
+VYL7n4QEzYYmH7a[9RI[c20
+!s100 h1@FLIER?:f:MJDRo=NG13
+Z6 OP;C;10.2c;57
+32
+Z7 !s110 1393954505
+!i10b 1
+Z8 !s108 1393954505.572000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\nickt_000\Desktop\Nikos\ece\vlsi3\New folder\pre-process.vhd|
+Z10 !s107 C:\Users\nickt_000\Desktop\Nikos\ece\vlsi3\New folder\pre-process.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Astate_machine
+R1
+R2
+Z13 DEx4 work 11 pre_process 0 22 YL7n4QEzYYmH7a[9RI[c20
+l31
+L28
+VYSo8G6cXLBgY:be<zaX_z2
+!s100 J_[PG[GdJM=66=<;TXJBk0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+R11
+R12

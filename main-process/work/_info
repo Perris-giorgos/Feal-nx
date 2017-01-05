@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:/Modeltech_pe_edu_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+Emain_process
+Z0 w1394064116
+Z1 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 @_jbHPR7i^Jh?`2fDCO`m3
+Z3 DPx4 ieee 11 numeric_std 0 22 WES[o8HS0jHV[MIXQk2Ha1
+Z4 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z6 dC:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process
+Z7 8C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/main-process.vhd
+Z8 FC:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/main-process.vhd
+l0
+L15
+V0hNKNIcklLBcmU0Jn[BhX2
+Z9 OP;C;10.2c;57
+32
+Z10 !s110 1394064125
+Z11 !s108 1394064125.961000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/main-process.vhd|
+Z13 !s107 C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/main-process.vhd|
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+!s100 YVgJ8Bj9mSJjGD]AD`aOZ3
+!i10b 1
+Astate_machine
+R1
+R2
+R3
+R4
+R5
+DEx4 work 12 main_process 0 22 0hNKNIcklLBcmU0Jn[BhX2
+l71
+L25
+V8d6M9QNEbVG>TCJY@]C733
+R9
+32
+R10
+R11
+R12
+R13
+R14
+R15
+!s100 HC1d;ic3_z:IQLnjCBiKG2
+!i10b 1
+Epre_process
+Z16 w1394029840
+R4
+R5
+R6
+Z17 8C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/pre-process.vhd
+Z18 FC:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/pre-process.vhd
+l0
+L13
+VWKiMGBZ@oc0<FEEX9X@B52
+R9
+32
+Z19 !s110 1394064126
+Z20 !s108 1394064126.062000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/pre-process.vhd|
+Z22 !s107 C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/pre-process.vhd|
+R14
+R15
+!s100 [j4LTWa6:gTU0]=l4TUg43
+!i10b 1
+Astate_machine
+R4
+R5
+DEx4 work 11 pre_process 0 22 WKiMGBZ@oc0<FEEX9X@B52
+l51
+L24
+VZznTJ^PmHAOJDB@A2;G`B3
+!s100 6dGMZ::a?`MjYLC_L?`;>3
+R9
+32
+R19
+R20
+R21
+R22
+R14
+R15
+!i10b 1
+Eram
+Z23 w1394029617
+R3
+R4
+R5
+R6
+Z24 8C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/ram_keys.vhd
+Z25 FC:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/ram_keys.vhd
+l0
+L5
+VIo70B;jUWo[Ez387d:DhL0
+!s100 R[CHW7@8jFjQ[RSRKIO4m2
+R9
+32
+R19
+!i10b 1
+Z26 !s108 1394064126.218000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/ram_keys.vhd|
+Z28 !s107 C:/Users/nickt_000/Desktop/Nikos/ece/vlsi3/feal nx project/main-process/ram_keys.vhd|
+R14
+R15
+Artl
+R3
+R4
+R5
+Z29 DEx4 work 3 ram 0 22 Io70B;jUWo[Ez387d:DhL0
+l26
+L22
+Z30 V6JHm]W^PI[zLXN]R>o2aA0
+Z31 !s100 OZ;jXk2RY5T5N]=?WD:4e3
+R9
+32
+R19
+!i10b 1
+R26
+R27
+R28
+R14
+R15
